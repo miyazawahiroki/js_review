@@ -1,0 +1,27 @@
+charset "UTF-8";
+
+#slider{
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 61.77% 0 0;
+	position: relative;}
+.sld_fade{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: none;}
+
+#sld1{
+    background: #fad;
+}
+#sld2{
+    background: #ffb;
+}
+#sld3{
+    background: #cdf;
+}
+#sld4{
+    background: #bfe;
+}
